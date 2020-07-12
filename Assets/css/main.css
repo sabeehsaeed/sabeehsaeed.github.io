@@ -4,8 +4,9 @@
 .navbar-brand {
     font-family: 'Yanone Kaffeesatz';
     font-size: 32px;
-  
+    letter-spacing: 3px;
     margin-right: 1em;
+    
 }
 
 .nav-link {
