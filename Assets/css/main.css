@@ -1,4 +1,10 @@
-a .navbar-brand {
-    font-family: monospace;
-    font-size: large;
+
+.navbar-brand {
+    font-family: 'Changa';
+    font-size: 32px;
+}
+
+.nav-link {
+    font-family: 'Changa';
+    font-size: 16px;
 }
