@@ -17,12 +17,12 @@
     background-color: rgb(250, 250, 250);
 }
 
-.jumbotron .display-3{
+.jumbotron .display-4{
     font-family: 'Yanone Kaffeesatz';
 }
 .profile-picture{
-    max-width: 150px;
-    max-height: 150px;
+    max-width: 120px;
+    max-height: 120px;
 }
 
 
