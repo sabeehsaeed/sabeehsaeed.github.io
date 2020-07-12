@@ -1,14 +1,29 @@
-@import url("https://fonts.googleapis.com/css?family=Kristi");
+@import url("https://fonts.googleapis.com/css?family=Yanone Kaffeesatz");
 @import url("https://fonts.googleapis.com/css?family=Delius");
 
 .navbar-brand {
-    font-family: 'Kristi';
-    font-size: 40px;
+    font-family: 'Yanone Kaffeesatz';
+    font-size: 32px;
     margin-left: 1em;
     margin-right: 1em;
 }
 
 .nav-link {
-    font-family: 'Delius';
+    font-family: 'Yanone Kaffeesatz';
     font-size: 20px;
 }
+
+.jumbotron {
+    background-color: rgb(250, 250, 250);
+}
+
+.jumbotron .display-3{
+    font-family: 'Yanone Kaffeesatz';
+}
+.profile-picture{
+    max-width: 150px;
+    max-height: 150px;
+}
+
+
+
