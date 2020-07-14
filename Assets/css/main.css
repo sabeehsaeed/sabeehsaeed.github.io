@@ -19,6 +19,13 @@
     border-radius: 3em;
 }
 
+@media screen and (max-width: 480px){
+    .project-thumb{
+        max-width: 240px;
+        max-height: 160px;
+    }
+}
+
 .navbar-brand {
     font-family: 'Yanone Kaffeesatz';
     font-size: 20px;
